@@ -14,6 +14,7 @@ public class DataType {
 		System.out.println(charr);
 		System.out.println(s1);
 		System.out.println(bool);
+		System.out.println("Milind");
 		
 		
 	}

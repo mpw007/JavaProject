@@ -5,6 +5,8 @@ public class StingConcat {
 		String s1="Well Come";
 		String s2="Java";
 		System.out.println("Milind");
+		System.out.println("Pandurang ");
+		System.out.println("Wasnik");
 		System.out.println(s1+s2);
 	}
 
